@@ -17,7 +17,8 @@ An upgraded 2D space shooter built using SFML and C++. Blast your enemies, survi
 
 ## 📷 UI Preview
 
-![Game Screenshot](screenshot_updated.png)
+![screenshot_updated](https://github.com/user-attachments/assets/c5b0a77f-e61b-4aa0-b4c9-15ee5df6ccba)
+
 
 ## 🛠️ Requirements
 - SFML 2.x installed on your system
